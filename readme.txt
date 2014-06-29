@@ -1,6 +1,6 @@
 === Plugin Name ===
-Contributors: hchouhan, dreamsonline, dreamsmedia, Benoit "LeBen" Burgener
-Donate link: http://www.dreamsonline.net
+Contributors: hchouhan, themeist, dreamsmedia, Benoit "LeBen" Burgener
+Donate link: http://themeist.co
 Tags: recommend, like, love, post, rate, rating, post rating, heart, dribbble like, tumblr like
 Requires at least: 3.7
 Tested up to: 3.9.1
@@ -37,9 +37,15 @@ This plugin allows your visitors to simply like/recommend your posts instead of 
 * Now using shortcode display a specific number of most recommended posts of all time or from a specific time period with support to chose the post type.
 
 = Translations =
-* French translation added. Thanks to Murat from [wptheme.fr](http://wptheme.fr/)
-* Portuguese translation added. Thanks to Darlan ten Caten - http://i9solucoesdigitais.com.br/
-* Persian translation added. Thanks to Hossein Soroor Golshani - Thanks to [HSG](http://profiles.wordpress.org/HSG/)
+
+- English (en_US) - Harish Chouhan
+- French (fr_FR) - Murat [wptheme.fr](http://wptheme.fr/)
+- Portuguese (pt_BR) - [Darlan ten Caten](http://i9solucoesdigitais.com.br/)
+- Persian (fa_IR) - [Hossein Soroor Golshani](http://profiles.wordpress.org/HSG/)
+- Spanish (es_ES) - [Andrew Kurtis - WebHostingHub](http://www.webhostinghub.com/)
+
+If you have created your own language pack (or have an update of an existing one) you can send in your .PO and .MO files so we can bundle it into I Recommend This plugin. You can [download the latest POT file](http://plugins.svn.wordpress.org/i-recommend-this/trunk/languages/dot-en.po), and [PO files in each language](http://plugins.svn.wordpress.org/i-recommend-this/trunk/languages/).
+
 
 This plugin is based exactly on Benoit "LeBen" Burgener's "I Like This" Plugin and has been modified after getting requests for the changes I had made on my website.
 
